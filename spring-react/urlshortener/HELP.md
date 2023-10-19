@@ -1,5 +1,6 @@
 ### Guides
 right click build module notorius_solution
+
 right click the pom.xml and do maven->generate sources and update folders
 
 You will need to install a mysql instance with root password
